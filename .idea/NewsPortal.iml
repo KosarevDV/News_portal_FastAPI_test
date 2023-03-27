@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/game_blog" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/env" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7 (NewsPortal)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyNamespacePackagesService">
+    <option name="namespacePackageFolders">
+      <list>
+        <option value="$MODULE_DIR$/game_blog" />
+      </list>
+    </option>
+  </component>
+</module>
